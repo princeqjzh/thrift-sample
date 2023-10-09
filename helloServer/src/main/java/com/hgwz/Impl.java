@@ -1,3 +1,5 @@
+package com.hgwz;
+
 import com.testerhome.service.ComputeServer;
 import com.testerhome.service.ComputeRequest;
 import com.testerhome.service.ComputeResponse;

@@ -1,3 +1,5 @@
+package com.hgwz;
+
 import com.testerhome.service.ComputeServer;
 import org.apache.thrift.TProcessor;
 import org.apache.thrift.protocol.TBinaryProtocol;
